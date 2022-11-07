@@ -18,12 +18,6 @@ h2 {
   font-style: italic;
 }
 
-h1,
-h2,
-p {
-  text-align: center;
-}
-
 .menu {
   width: 80%;
   background-color: burlywood;
@@ -31,6 +25,7 @@ p {
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
+  text-align: center;
 }
 
 img {
